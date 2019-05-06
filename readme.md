@@ -1,0 +1,1 @@
+Contains docker image with gcloud-sdk: slim, mongo and postgres-client-11
